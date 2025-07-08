@@ -14,7 +14,7 @@ public class UserController {
     // Get all users
     @GetMapping
     public String getAllUsers() {
-        return "hello";
+        return "hello world";
     }
 
     
